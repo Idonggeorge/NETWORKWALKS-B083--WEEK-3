@@ -110,6 +110,10 @@ $pdf$4*4*128*[REDACTED]
 
 I followed same process to unlock the second and third pdf files
 
+#Screenshot
+
+https://github.com/Idonggeorge/NETWORKWALKS-B083--WEEK-3/blob/main/Screenshot%202026-09-24%20015626.png
+
 <img width="806" height="444" alt="Screenshot 2026-09-24 015626" src="https://github.com/user-attachments/assets/ca87b0f9-f28d-44e7-8207-3f532815263a" />
 
 
