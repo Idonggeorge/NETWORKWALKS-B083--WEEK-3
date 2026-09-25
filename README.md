@@ -88,7 +88,7 @@ Loaded the hash file into Johnny using the appropriate password-file option.
 
 Initiated the password recovery process using John the Ripper through the Johnny GUI interface.
 
-RESULT
+#RESULT
 
 <img width="598" height="240" alt="Screenshot 2026-09-24 014633" src="https://github.com/user-attachments/assets/4d739fde-820f-4541-99ff-5a57cb615cbd" />
 
@@ -107,6 +107,8 @@ I follwed same process to unlock the second and third pdf files
 
 
 <img width="800" height="434" alt="Screenshot 2026-09-24 020048" src="https://github.com/user-attachments/assets/890a50e1-f079-45ce-9e7f-8518f668d8cf" />
+
+#TASK 2
 
 The second part of the practical used **NetworkWalks' browser-based security tools** to explore an alternative password-recovery workflow.
 
@@ -139,6 +141,7 @@ https://github.com/user-attachments/assets/bff31fed-8b0b-4329-adaa-b345e08ef981
    
    <img width="746" height="436" alt="Screenshot 2026-09-24 220820" src="https://github.com/user-attachments/assets/d6687b18-417a-4d8a-b1df-50fd65adacdc" />
 
+
 🧠 Key Learning
 
 This practical helped build a more complete understanding of the relationship between a password-protected PDF, its extracted hash, and password-auditing tools.
@@ -147,6 +150,8 @@ It also provided hands-on exposure to two different password-auditing approaches
 
 🖥️ A locally configured John the Ripper (JTR) + Johnny GUI environment
 🌐 A browser-based NetworkWalks password-recovery workflow
+
+
 💡 Main Takeaway
 
 The exercise demonstrated how password complexity can affect the practicality of password recovery and reinforced the importance of using strong, unique passwords when protecting sensitive files.
@@ -174,6 +179,8 @@ Week 3 provided valuable hands-on experience with password auditing and hash ana
 Working with both John the Ripper (JTR) and NetworkWalks tools helped build a practical understanding of the complete password-auditing workflow — from extracting a PDF hash to submitting the hash for password recovery and verifying the result against the original protected document.
 
 The practical also reinforced the importance of strong password practices, secure file protection, and responsible use of password-auditing tools within an authorized cybersecurity testing environment.
+
+
 ⭐ Cybersecurity Internship Portfolio
 
 🔎 Hash Analysis
