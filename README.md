@@ -3,17 +3,15 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Skill-Cybersecurity-404040?style=flat-square&labelColor=C00000" />
-  <img src="https://img.shields.io/badge/Networkwalkstools-hash%20calculator%20password%20cracker-238F89?style=flat-square&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Networkwalks%20tools-hash%20calculator;%20password%20cracker-238F89?style=flat-square&labelColor=000000" />
   <img src="https://img.shields.io/badge/password%20cracking-C00000?style=flat-square&labelColor=000000&logo=kalilinux&logoColor=white" />
   <img src="https://img.shields.io/badge/Skill-Hash%20Analysis-404040?style=flat-square&labelColor=C00000" />
   <img src="https://img.shields.io/badge/GitHub-404040?style=flat-square&labelColor=0070C0&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/John%20the%20Ripper%20JTR-404040?style=flat-square&labelColor=C00000&logo=kalilinux&logoColor=white" />
   <img src="https://img.shields.io/badge/NetworkWalks-404040?style=flat-square&labelColor=C00000" />
-  <img src="https://img.shields.io/badge/Jonny%20&%20GUI%JTR%20Network%20walks%20password%20cracker-E87500?style=flat-square&labelColor=000000&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jonny%20&%20GUI%JTR%20Network%20walks%20tools%20password%20cracker-E87500?style=flat-square&labelColor=000000&logo=kalilinux&logoColor=white" />
   <img src="https://img.shields.io/badge/Idongesit%20Nkanga%Internship-C00000?style=flat-square" />
 <p align="center">
-
-**Cybersecurity Training & Internship Journey with NETWORKWALKS**
 
 `🔎 Hash Analysis` • `🔐 Password Auditing` • `🧪 Security Testing` • `💻 Cybersecurity Lab`
 
