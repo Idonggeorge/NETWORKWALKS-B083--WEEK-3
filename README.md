@@ -3,7 +3,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Skill-Cybersecurity-404040?style=flat-square&labelColor=C00000" />
-  <img src="https://img.shields.io/badge/Networkwalks%20tools-hash%20calculator;%20password%20cracker-238F89?style=flat-square&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Networkwalks%20tools:-Hash%20Calculator;%20Password%20Cracker-238F89?style=flat-square&labelColor=000000" />
   <img src="https://img.shields.io/badge/password%20cracking-C00000?style=flat-square&labelColor=000000&logo=kalilinux&logoColor=white" />
   <img src="https://img.shields.io/badge/Skill-Hash%20Analysis-404040?style=flat-square&labelColor=C00000" />
   <img src="https://img.shields.io/badge/GitHub-404040?style=flat-square&labelColor=0070C0&logo=github&logoColor=white" />
