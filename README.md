@@ -92,7 +92,6 @@ RESULT
 
 <img width="598" height="240" alt="Screenshot 2026-09-24 014633" src="https://github.com/user-attachments/assets/4d739fde-820f-4541-99ff-5a57cb615cbd" />
 
-
 #### 8️⃣ Verify the Result
 
 Used the recovered password to open the original protected PDF and confirm that the password was correct.
@@ -100,27 +99,14 @@ Used the recovered password to open the original protected PDF and confirm that 
 ---
 <img width="893" height="430" alt="Screenshot 2026-09-24 015204" src="https://github.com/user-attachments/assets/8c565383-36de-4952-a113-2c3b6eae6694" />
 
+I follwed same process to unlock the second and third pdf files
 
-## 🔎 Redacted Hash Format
+#SCREENSHOTS
 
-For security and documentation purposes, the actual hash value has been redacted.
-
-```text
-$pdf$4*4*128*[REDACTED]
-
-I followed same process to unlock the second and third pdf files
-
-#Screenshot
-
-<img width="806" height="444" alt="Screenshot 2026-09-24 015626" src="https://github.com/user-attachments/assets/4ac0a5ee-ac16-445f-8a41-2261c7fba48e" />
+<img width="806" height="444" alt="Screenshot 2026-09-24 015626" src="https://github.com/user-attachments/assets/e3b90b90-1287-4967-866a-e0e90c39c166" />
 
 
-<img width="806" height="444" alt="Screenshot 2026-09-24 015626" src="https://github.com/user-attachments/assets/94449b29-f2d7-45d8-ba79-61c0de754e1f" />
-
-<img width="800" height="434" alt="Screenshot 2026-09-24 020048" src="https://github.com/user-attachments/assets/0b1a10f8-e013-411a-bc61-53114c32fd9f" />
-
-
-## 🔬 Lab 2: Password Cracking with NetworkWalks Tools
+<img width="800" height="434" alt="Screenshot 2026-09-24 020048" src="https://github.com/user-attachments/assets/890a50e1-f079-45ce-9e7f-8518f668d8cf" />
 
 The second part of the practical used **NetworkWalks' browser-based security tools** to explore an alternative password-recovery workflow.
 
@@ -129,36 +115,29 @@ The second part of the practical used **NetworkWalks' browser-based security too
 1. 📄 Prepared the encrypted PDF files supplied for the practical.
 2. 🌐 Uploaded the protected PDF to the **NetworkWalks Hash Calculator**.
 
-<img width="839" height="457" alt="Screenshot 2026-09-24 210558" src="https://github.com/user-attachments/assets/274a5465-c466-40e8-ba5d-9b39ee3f1e9a" />
-
+   <img width="839" height="457" alt="Screenshot 2026-09-24 210558" src="https://github.com/user-attachments/assets/6ca3dddb-d7e7-4a40-9fda-4cfeb9ff7488" />
 
 3. 🔎 Extracted the corresponding `$pdf$...` hash.
 4. 📋 Copied the generated hash into the **NetworkWalks Password Cracker**.
 5. ▶️ Started the password-recovery process.
 6. ⏳ Waited for the tool to identify a matching password.
 
-p.s The first attempt with the built-in word list showed a failed attempt
+  #p.s The first attempt with the built-in word list showed a failed attempt
 solution: i uploaded external wordlists and kept trying to get a match. "JTR_default_password.txt" wordlist had a match
 
 
+https://github.com/user-attachments/assets/bff31fed-8b0b-4329-adaa-b345e08ef981
 
-https://github.com/user-attachments/assets/02715e58-a6de-4145-ac6b-a8af9276ed91
 
+#Screenshot
 
-<img width="917" height="457" alt="Screenshot 2026-09-24 220707" src="https://github.com/user-attachments/assets/9e941aa4-1a04-49d9-ba58-20b0b7f847e6" />
-
+<img width="917" height="457" alt="Screenshot 2026-09-24 220707" src="https://github.com/user-attachments/assets/2e87eb1a-99e2-4333-997c-244596c634c0" />
 
 7. ✅ Tested the recovered password against the original protected PDF to verify the result.
 
-<img width="746" height="436" alt="Screenshot 2026-09-24 220820" src="https://github.com/user-attachments/assets/a260cbad-567f-4e20-9ae4-dd7830e19fd2" />
-
-
-### 🔐 Redacted Hash Format Used
-
-For security and documentation purposes, the actual hash has been redacted.
-
-```text
-$pdf$4*4*128*[REDACTED]
+   #Screenshot
+   
+   <img width="746" height="436" alt="Screenshot 2026-09-24 220820" src="https://github.com/user-attachments/assets/d6687b18-417a-4d8a-b1df-50fd65adacdc" />
 
 🧠 Key Learning
 
@@ -181,7 +160,6 @@ The exercise demonstrated how password complexity can affect the practicality of
 | **Hash Format**     | `$pdf$...`                   | `$pdf$...`                      |
 | **Environment**     | Windows PC                   | Web Browser                     |
 | **Verification**    | Original protected PDF       | Original protected PDF          |
-
 
 
 Password-cracking tools can be used for legitimate security testing as well as unauthorized access.
