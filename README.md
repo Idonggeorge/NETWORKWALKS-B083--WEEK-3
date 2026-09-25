@@ -88,6 +88,8 @@ Loaded the hash file into Johnny using the appropriate password-file option.
 
 Initiated the password recovery process using John the Ripper through the Johnny GUI interface.
 
+RESULT
+
 <img width="598" height="240" alt="Screenshot 2026-09-24 014633" src="https://github.com/user-attachments/assets/4d739fde-820f-4541-99ff-5a57cb615cbd" />
 
 
@@ -107,6 +109,9 @@ For security and documentation purposes, the actual hash value has been redacted
 $pdf$4*4*128*[REDACTED]
 
 I followed same process to unlock the second and third pdf files
+
+<img width="806" height="444" alt="Screenshot 2026-09-24 015626" src="https://github.com/user-attachments/assets/ca87b0f9-f28d-44e7-8207-3f532815263a" />
+
 
 <img width="806" height="444" alt="Screenshot 2026-09-24 015626" src="https://github.com/user-attachments/assets/94449b29-f2d7-45d8-ba79-61c0de754e1f" />
 
@@ -176,25 +181,6 @@ The exercise demonstrated how password complexity can affect the practicality of
 | **Verification**    | Original protected PDF       | Original protected PDF          |
 
 
-👨‍💻 Skills & Technologies
-
-🔐 Password Security
-
-🔎 Hash Analysis
-
-🧪 Security Testing
-
-🛠️ John the Ripper
-
-🖥️ Johnny GUI
-
-🌐 NetworkWalks Tools
-
-📄 PDF Security
-
-💻 Cybersecurity Lab
-
-🛡️ Ethical & Security Considerations
 
 Password-cracking tools can be used for legitimate security testing as well as unauthorized access.
 
@@ -223,7 +209,7 @@ The practical also reinforced the importance of strong password practices, secur
 **IDONGESIT NKANGA**  
 Cybersecurity Intern — B083
 
-LinkedIn: https://www.linkedin.com/in/idongesit-george-7b0125a8
+LinkedIn: https://www.linkedin.com/in/idongesit-george-7b0125a8 
 
 ### Project Information
 
